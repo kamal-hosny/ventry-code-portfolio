@@ -148,6 +148,14 @@ export const projects = [
     ],
     link: "/",
   },
+  {
+    id: 10,
+    title: "first1step",
+    des: "A nurturing children's nursery providing quality care, education, and playful learning.",
+    img: "projects/first1step.png",
+    iconLists: ["/re.svg", "/redux.svg", "/framer-motion.svg"],
+    link: "/",
+  },
 ];
 
 export const testimonials = [
